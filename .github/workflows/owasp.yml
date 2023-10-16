@@ -12,3 +12,4 @@ jobs:
       - run: npm install -g @stoplight/spectral-cli
       - run: npm install --save -D @stoplight/spectral-owasp-ruleset
       - run: spectral lint rfq-api-v1.oas.yml -D error
+
