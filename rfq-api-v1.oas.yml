@@ -41,7 +41,7 @@ components:
           type: integer
           format: int32
           minimum: 0
-          maximum: 1000
+          maximum: 999
         price:
           type: number
           minimum: 0
