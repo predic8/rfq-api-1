@@ -1,2 +1,1 @@
-# rfq-api-1
-Quotation API
+# Quotation API
